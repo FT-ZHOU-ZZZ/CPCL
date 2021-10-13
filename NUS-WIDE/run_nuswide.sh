@@ -1,0 +1,1 @@
+python3 demo_nuswide.py dataset/nuswide --image-size 448 --batch-size 16 --margin 1.0 --beta 1.0
