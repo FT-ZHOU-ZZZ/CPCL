@@ -31,7 +31,7 @@ cd MS-COCO
 bash run_coco.sh
 ```
 
-## Demo VOC 2007
+## Demo VOC
 
 ```sh
 cd VOC
